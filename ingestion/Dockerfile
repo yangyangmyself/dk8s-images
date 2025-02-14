@@ -1,0 +1,1 @@
+FROM docker.getcollate.io/openmetadata/ingestion:1.6.3
